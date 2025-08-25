@@ -1,6 +1,6 @@
 # owiscan_trennblatt
 
-
+ 
 Ich habe dieses Skript erstellt, um gescannte Dokumente für den Import in Owiscan vorzubereiten. Das Skript macht vieles automatisch, aber ich finde es wichtig, die Dokumente vorher noch einmal von Hand zu prüfen. Der beste Weg dafür ist die Miniaturansicht von Windows (Ansicht -> Extra große Symbole). 
 So kann man schnell sehen, ob die Scans korrekt sind. Man erkennt leicht Fehler, zum Beispiel wenn Seiten falsch herum oder schief gescannt wurden, wenn die Farben nicht stimmen oder wenn Seiten in einem Stapel fehlen.
 Das Motto ist: Manuelle Sichtung und Überprüfung, um wirklich sicherzustellen, ob alles korrekt verarbeitet wird. Owiscan bietet diese Funktion leider nicht. Insbesondere die schnelle Ansicht von Dokumenten. 
