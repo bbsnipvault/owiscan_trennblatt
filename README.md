@@ -20,5 +20,4 @@ In den Kommentaren, die ich geschrieben habe, lege ich großen Wert auf die manu
 
 Qualitätskontrolle: Die visuelle Überprüfung hilft, häufige Scanfehler zu identifizieren, wie z.B. falsch gescannte Seiten, falsche Farbmodi (z.B. Schwarzweiß statt Farbe) oder schiefe Scans. Auch kann man direkt sehen, ob in einem Stapel zwischen zwei Trennseiten alle Seiten gescannt wurden.
 
-Tipp für die Miniaturansicht: Ich habe sogar erklärt, wie die Größe und Qualität der Miniaturansichten durch Änderungen in der Windows-Registrierung angepasst werden können, um eine bessere Sichtung zu ermöglichen.
 
